@@ -10,9 +10,9 @@
 ![](./pic/KL.png)
 
 ### 3. 模型比较
-下图从左至右分别为`原始图像`，`MLP_AE生成的图像`，`Conv_AE生成的图像`，`VAE生成的图像`
+下图从左至右分别为**原始图像**，**MLP_AE生成的图像**，**Conv_AE生成的图像**，**VAE生成的图像**
 
-从下图我们可以看出`Conv_AE生成的图像`，`VAE生成的图像`优于`MLP_AE生成的图像`
+从下图我们可以看出**Conv_AE生成的图像**，**VAE生成的图像** 优于 **MLP_AE生成的图像**
 
 ![](./pic/orig.png) ![](./pic/mlp_ae.png) ![](./pic/conv_ae.png) ![](./pic/vae.png)
 
